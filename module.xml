@@ -2,6 +2,7 @@
 <channel>
 <item>
 <author>Dmytro Galitsky (melles1991)</author>
+<version>v1.7</version>
 <title>OxyAdditional</title>
 <description>Magisk module that turns your Android phone into a OnePlus device.</description>
 <pubDate>03 Feb 2021</pubDate>
