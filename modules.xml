@@ -8,5 +8,13 @@
 <pubDate>03 Feb 2021</pubDate>
 <link>https://www.craft-rom.ml/MAGISK-OxyAdditional/</link>
 </item>
+<item>
+<author>DfP_DEV</author>
+<version>v0.27.3.3</version>
+<title>Dragonfly Tweaks</title>
+<description>Tweaks intended to improve general smoothness, responsiveness and power saving. Supported devices: 100% support for Redmi 7, other devices on EAS kernel.</description>
+<pubDate>15 Feb 2021</pubDate>
+<link>https://sourceforge.net/projects/dft-builds/files/beta/</link>
+</item>
 </channel>
 </rss>
