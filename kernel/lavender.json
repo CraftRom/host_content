@@ -3,7 +3,7 @@
     "latestDate": "Mar 18 23 2021",
     "linuxVersion": "4.4.262",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/",
-    "codeName": "-chidori-test",
+    "codeName": "-chidori-perf",
 	"type": "nightly",
 	"device": "lavender",
     "cafTag": "null",
