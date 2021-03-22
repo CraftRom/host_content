@@ -1,11 +1,11 @@
 {
-    "builtAt": "Wed Mar 17 20:14:10 2021",
-    "latestDate": "Mar 16 20 2021",
+    "builtAt": "Mon Mar 22 16:57:14 2021",
+    "latestDate": "Mar 22 16 2021",
     "linuxVersion": "4.9.262",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/",
     "codeName": "-chidori-perf",
 	"type": "nightly",
 	"device": "onc/onclite",
     "cafTag": "LA.UM.9.6.2.r1-04100-89xx.0",
-    "changelog": " • Upstream Linux 4.9.262\n • Add ARM64-specific support for flatmem\n • Block access to mounts for IsolatedService\n • Hide magisk mounts for IsolatedService\n • Make scheduling period more efficient\n • Start killing wakelocks after two minutes of idle (120s)\n • When tcp stack not buggy init window size to 64K otherwise lock to 32k\n • Use get_random_int() to fix entropy depleting\n • Fix Wi-Fi speed"
+    "changelog": "• Add VOLTAGE_NOW power supply property to expose the USB voltage.\n • Fix the order of configuring PWM value\n • Refactor cpuset assist code\n       - Fix invalid memory manipulation and potential buffer undersizing\n       - Improve overall code style\n       - Revise Kconfig description\n • Introduce CPUSet Assist\n • Don't allow IRQ affinity masks to have more than one CPU\n • kernel: power: process: decrease task freezing timeout\n • power: process: decrease time to enter sleep\n • Increase data processing limit\n • Use performance and bw_hwmon governor for devfreq\n • Optimize boot time by detecting cards simultaneously\n • Relax CPU latency requirements to save power\n • Declare acct_update_power as static inline if needed"
 }
