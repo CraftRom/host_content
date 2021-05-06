@@ -6,6 +6,6 @@
     "codeName": "-chidori-perf",
 	"type": "nightly",
 	"device": "onc/onclite",
-    "cafTag": "LA.UM.9.6.2.r1-04100-89xx.0",
-    "changelog": "• Upstream Linux 4.9.267.\n • Set BBR as default TCP congestion algorithm\n • Fix some bugs"
+    "cafTag": "LA.UM.9.6.2.r1-04200-89xx.0",
+    "changelog": " • Upstream CAF tag 'LA.UM.9.6.2.r1-04200-89xx.0'\n • Fix cpu.pressure for cpu.max and competing cgroups\n • Optimize switching tasks inside shared cgroups\n • Enlarge qseecom_ta and adsp regions to 8mb\n • Add option to skip AARCH64 context format probe\n • Mark apps_iommu to skip aarch64 context format\n • Kill some userspace spam"
 }
