@@ -1,12 +1,12 @@
 {
-    "builtAt": "Thu May 6 20:01:14 2021",
-    "latestDate": "May 5 20 2021",
-    "linuxVersion": "4.9.267",
+    "builtAt": "Thu May 11 18:15:21 2021",
+    "latestDate": "May 11 18 2021",
+    "linuxVersion": "4.9.268",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/",
     "codeName": "-chidori-perf",
 	"type": "nightly",
 	"device": "onc/onclite",
     "cafTag": "LA.UM.9.6.2.r1-04200-89xx.0",
-    "changelog": " • Upstream CAF tag 'LA.UM.9.6.2.r1-04200-89xx.0'\n • Fix cpu.pressure for cpu.max and competing cgroups\n • Optimize switching tasks inside shared cgroups\n • Enlarge qseecom_ta and adsp regions to 8mb\n • Add option to skip AARCH64 context format probe\n • Mark apps_iommu to skip aarch64 context format\n • Kill some userspace spam"
+    "changelog": " • Upstream Linux 4.9.268\n • Upstream VDSO32\n • Upstream TCP, TCP BBR"
 }
 
