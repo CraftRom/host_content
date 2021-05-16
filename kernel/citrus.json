@@ -1,1 +1,11 @@
-
+{
+    "builtAt": "Sun May 16 10:34:21 2021",
+    "latestDate": "May 15 10 2021",
+    "linuxVersion": "4.19.113",
+    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/",
+    "codeName": "-chidori-test",
+	"type": "experimental",
+	"device": "citrus",
+    "cafTag": "LA.UM.8.15.r1-08200-KAMORTA.0",
+    "changelog": " • Init test build"
+}
