@@ -1,0 +1,12 @@
+
+{
+    "builtAt": "Wed Sep 22 15:15:26 2021",
+    "latestDate": "Sep 21 15 2021",
+    "linuxVersion": "4.14.190",
+    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/",
+    "codeName": "-chidori-test",
+	"type": "experimental",
+	"device": "surya",
+    "cafTag": "null",
+    "changelog": " • Init test build"
+}
