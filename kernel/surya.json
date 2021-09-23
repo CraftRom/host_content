@@ -1,12 +1,12 @@
 
 {
-    "builtAt": "Wed Sep 22 15:15:26 2021",
-    "latestDate": "Sep 21 15 2021",
-    "linuxVersion": "4.14.190",
+    "builtAt": "Thu Sep 23 21:10:26 2021",
+    "latestDate": "Sep 22 21 2021",
+    "linuxVersion": "4.14.247",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/",
-    "codeName": "-chidori-test",
-	"type": "experimental",
+    "codeName": "-chidori-perf",
+	"type": "nightly",
 	"device": "surya",
     "cafTag": "null",
-    "changelog": " • Init test build"
+    "changelog": " • Stabilize fluctuation in charging speed\n • Enable USB force fast charge\n • Implement USB2 fast charge mode\n • Enable LLVM Polly\n • Add feature to toggle SchedTune  utilization boosting\n • Enable HL/TTL target support\n • Others"
 }
