@@ -1,11 +1,11 @@
 {
-    "builtAt": "Thu Sep 23 21:10:26 2021",
-    "latestDate": "Sep 22 21 2021",
+    "builtAt": "Sun Sep 26 17:44:26 2021",
+    "latestDate": "Sep 25 17 2021",
     "linuxVersion": "4.14.247",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/",
     "codeName": "-chidori-perf",
 	"type": "nightly",
 	"device": "surya",
     "cafTag": "null",
-    "changelog": " • Stabilize fluctuation in charging speed\n • Enable USB force fast charge\n • Implement USB2 fast charge mode\n • Enable LLVM Polly\n • Add feature to toggle SchedTune  utilization boosting\n • Enable HL/TTL target support\n • Others"
+    "changelog": " • Enable HL/TTL target support\n • Add support for LLVM's Polly optimizer\n • Build with THINLTO\n • Add Link Time Optimization support\n • Optimization CFQ IoSched\n • add base vnswap code for vbswap\n • faster deepsleep\n • Update LZ4 decompressor module\n • Update LZO module\n • Others"
 }
