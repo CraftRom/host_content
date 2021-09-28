@@ -2,7 +2,7 @@
     "builtAt": "Tue Oct 18 21:47:16 2021",
     "latestDate": "Oct 18 21 2021",
     "linuxVersion": "4.9.268",
-    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/",
+    "downloadLink": "Chidori-Kernel-11-onclite-20210518-2206.zip",
     "codeName": "-chidori-perf",
 	"type": "nightly",
 	"device": "onc/onclite",
