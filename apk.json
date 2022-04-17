@@ -2,5 +2,5 @@
   "version": "102",
   "apkversion": "10.2",
   "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/release/com.craftrom.manager-7.6.6-release.apk",
-  "changelog": "* Fix news settings\n* Add app updater"
+  "changelog": "• Fix news settings\n• Add app updater"
 }
