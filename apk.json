@@ -1,6 +1,6 @@
 {
   "version": "104",
   "apkversion": "10.4",
-  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/release/com.craftrom.manager-10.4-release.apk",
+  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/10.4/com.craftrom.manager-10.4-release.apk",
   "changelog": "• Added option to disable app update check\n• Ukrainian and Czech translation updated\n• Design fixes\n• Cleaning the application from unused files\n• Minor bug fixes"
 }
