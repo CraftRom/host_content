@@ -1,11 +1,9 @@
 {
+    "version": "110",
     "builtAt": "Tue Oct 18 21:47:16 2021",
     "latestDate": "Oct 18 21 2021",
-    "linuxVersion": "4.9.268",
-    "downloadLink": "Chidori-Kernel-11-onclite-20210518-2206.zip",
-    "codeName": "-chidori-perf",
-	"type": "nightly",
-	"device": "onc/onclite",
-    "cafTag": "LA.UM.9.6.2.r1-04600-89xx.0",
+    "type": "nightly",
+    "name": "-chidori-perf",
     "changelog": " • Fix WI-FI hotspot\n • Switch to fq_codel queue discipline\n • Remove CONFIG_CFG80211_INTERNAL_REGD\n • Initialize sw_pta before vos_open\n • Remove WLAN_FEATURE_HOLD_RX_WAKELOCK feature\n • Optimize select_idle_core()\n • add missing bracket to fix compiler errors\n • Fix printk() message errors\n • kernel: initialize and free cpufreq stats properly\n • drivers: qpnp-fg: Cleanup unused debug on FG drivers\n • Merge tag 'LA.UM.9.6.2.r1-04600-89xx.0' WIFI\n • cpufreq: schedutil: Fix iowait boost reset\n • cpufreq: schedutil: Use unsigned int for iowait boost\n • cpufreq: schedutil: Make iowait boost more energy efficient\n • sched/core: fix userspace affining threads incorrectly by task name."
+    "downloadLink": "Chidori-Kernel-11-onclite-20210518-2206.zip",
 }
