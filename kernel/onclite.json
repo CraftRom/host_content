@@ -12,7 +12,6 @@
     "kernel": "4.9.308",
     "date": "Feb 29 13 2021",
     "changelog": "* test1\n* test2\n* test3",
-    "commit": "Test info",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/onclite/"
   },
   {
@@ -20,7 +19,6 @@
     "kernel": "4.9.307",
     "date": "Feb 29 13 2021",
     "changelog": "* test1\n* test2\n* test3",
-    "commit": "Test info",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/onclite/"
   }
 ]
