@@ -1,24 +1,10 @@
 [
   {
-    "chidori": 309,
-    "kernel": "4.9.309",
-    "date": "Feb 29 13 2021",
-    "changelog": "* test1\n* test2\n* test3",
-    "commit": "Test info",
-    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/onclite/"
-  },
-  {
-    "chidori": 308,
-    "kernel": "4.9.308",
-    "date": "Feb 29 13 2021",
-    "changelog": "* test1\n* test2\n* test3",
-    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/onclite/"
-  },
-  {
-    "chidori": 307,
-    "kernel": "4.9.307",
-    "date": "Feb 29 13 2021",
-    "changelog": "* test1\n* test2\n* test3",
+    "chidori": 313,
+    "kernel": "4.9.313",
+    "date": "Apr 15 2021",
+    "changelog": "• Init build",
+    "commit": "Init first Nightly build",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori%20Kernel/onclite/"
   }
 ]
