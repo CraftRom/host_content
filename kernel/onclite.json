@@ -1,6 +1,7 @@
 [
  {
     "chidori": 2,
+    "fileName": "Chidori-Kernel-onclite-202205191558-stable.zip",
     "kernel": "4.9.309",
     "date": "Apr 19 2022",
     "changelog": "• Fix VP9 codec",
@@ -9,6 +10,7 @@
   },
   {
     "chidori": 1,
+    "fileName": "Chidori-Kernel-onclite-202205182208-stable.zip",
     "kernel": "4.9.309",
     "date": "Apr 18 2022",
     "changelog": "• sched/tune: Disable boost & prefer_idle if battery saver is active\n• dts: sdm632: Undervolt CPU\n• msm: vidc: disable CPU L2 cache PC during video sessiotons\n• touchscreen : ft5446 : update to Focaltech V2.2\n• Merge tag 'LA.UM.10.6.2.r1-01200-89xx.0'\n• zram_drv: Hardcode disksize to 2GB\n• cfq-iosched: Apply RedHat suggested tunings for fast storage\n• More optimization for shed/tune, block/cfq\n• Fix some leaks memor",
