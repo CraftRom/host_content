@@ -1,7 +1,7 @@
 {
-  "version": "105",
-  "apkversion": "10.5",
-  "fileName": "com.craftrom.manager-10.5-release.apk",
-  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/10.5/com.craftrom.manager-10.5-release.apk",
-  "changelog": "• Added kernel updater\n• Ukrainian translation updated\n• Updated and fixed design\n• Added device group check.\n• Bug fixes and stability improvements"
+  "version": "106",
+  "apkversion": "10.6",
+  "fileName": "com.craftrom.manager-10.6-release.apk",
+  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/10.6/com.craftrom.manager-10.6-release.apk",
+  "changelog": "• Fixed download kernel\n• Updated translation\n• Updated libraries\n• Bug fixes and stability improvements"
 }
