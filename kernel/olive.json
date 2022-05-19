@@ -1,6 +1,7 @@
 [
   {
     "chidori": 313,
+    "fileName": "Chidori-Kernel-olive-202205152352-nightly.zip",
     "kernel": "4.9.313",
     "date": "Apr 15 2021",
     "changelog": "• Init build",
