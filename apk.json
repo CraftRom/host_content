@@ -2,6 +2,6 @@
   "version": "108",
   "apkversion": "10.8",
   "fileName": "com.craftrom.manager-10.8-release.apk",
-  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/10.7/com.craftrom.manager-10.8-release.apk",
+  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/10.8/com.craftrom.manager-10.8-release.apk",
   "changelog": "• Add news devices group 'olives' (Redmi 8/8a/8a dual)\n• Updated Czech translation\n• Fixed missing comment bug\n• Fixed missing comment bug\n• Fixed default update channel type\n• Fixed a bug when the number of elements is 0\n• Fixed kernel update type selection\n• Set invisible cardview in safety fragment\n• Minor bug fixes"
 }
