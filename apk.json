@@ -1,7 +1,7 @@
 {
-  "version": "106",
-  "apkversion": "10.6",
-  "fileName": "com.craftrom.manager-10.6-release.apk",
-  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/10.6/com.craftrom.manager-10.6-release.apk",
-  "changelog": "• Fixed download kernel\n• Updated translation\n• Updated libraries\n• Bug fixes and stability improvements"
+  "version": "107",
+  "apkversion": "10.7",
+  "fileName": "com.craftrom.manager-10.7-release.apk",
+  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/10.7/com.craftrom.manager-10.7-release.apk",
+  "changelog": "• Add news devices group 'olives' (Redmi 8/8a/8a dual)\n• Updated Czech translation\n• Fixed kernel update type selection\n• Set invisible cardview in safety fragment\n• Minor bug fixes"
 }
