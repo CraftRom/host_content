@@ -1,11 +1,20 @@
 [
   {
+    "chidori": 2,
+    "fileName": "Chidori-Kernel-olives-202205221944-nightly.zip",
+    "kernel": "4.9.313",
+    "date": "Apr 22 2021",
+    "changelog": "• Boot with all 8 cores\n• Suppress verbose output during boot\n• Add more goodies to PEWQ's\n• Schedule workers on CPU0 or 0-5 by default\n• Disable hw_random,enable srandom\n• Enable HL/TTL target support\n• Calculate battery more linearly\n• Hardcode disksize to 2GB\n• Introduce kernelspace battery saver mode\n• Added underclock CPU for olive devices\n• More others....",
+    "commit": "Test underclock CPU. Supports all group devices OLIVES",
+    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/olives/nightly/Chidori-Kernel-olives-202205221944-nightly.zip/download"
+  },  
+  {
     "chidori": 1,
     "fileName": "Chidori-Kernel-olive-202205152352-nightly.zip",
     "kernel": "4.9.313",
     "date": "Apr 15 2021",
     "changelog": "• Init build",
     "commit": "Init first Nightly build",
-    "downloadLink": "https://versaweb.dl.sourceforge.net/project/exodusos/Chidori_Kernel/olive/nightly/Chidori-Kernel-olive-202205151918-nightly.zip"
+    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/olives/nightly/Chidori-Kernel-olive-202205151918-nightly.zip/download"
   }
 ]
