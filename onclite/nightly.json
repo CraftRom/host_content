@@ -1,4 +1,12 @@
 [
+  {
+    "chidori": 2,
+    "fileName": "Chidori-Kernel-onclite-202205222009-nightly.zip",
+    "kernel": "4.9.307",
+    "date": "Apr 22 2022",
+    "changelog": "• Report correct GPU frequency in sysfs\n• Optimized Console FrameBuffer for upto 70% increase in Performance\n• Relax CPU latency requirements to save power\n• Optimize policy update loop on input cpufreq boost\n• Don't boost over user set max freq\n• Reduce touch latency by 0.5-1ms by just making\n• Inline the spin lock function family\n• • More others....",
+    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/onclite/nightly/Chidori-Kernel-onclite-202205222009-nightly.zip/download"
+  },
  {
     "chidori": 1,
     "fileName": "Chidori-Kernel-onclite-202205151835-nightly.zip",
