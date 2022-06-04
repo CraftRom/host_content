@@ -1,9 +1,18 @@
 [
+    {
+    "chidori": 3,
+    "fileName": "Chidori-Kernel-olives-202206041156-nightly.zip",
+    "kernel": "4.9.315",
+    "date": "Jun 06 2022",
+    "changelog": "• Linux 4.9.315\n• Add support pine\n• Enable power efficient workqueues\n• EXT4 optimizations\n• Optimized Console FrameBuffer for upto 70% increase in Performance\n• Correct mem_dump size\n• Update srandom to 1.40\n• fix fence timeout for 2 buff cases\n• Enable ZSTD\n• Upgrade to latest upstream zstd version 1.5.2\n• Update RT priority\n• Support Power Efficient Workqueues\n• More others....",
+    "commit": "Support PINE",
+    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/olives/nightly/Chidori-Kernel-olives-202206041156-nightly.zip/download"
+  },
   {
     "chidori": 2,
     "fileName": "Chidori-Kernel-olives-202205221944-nightly.zip",
     "kernel": "4.9.313",
-    "date": "Apr 22 2021",
+    "date": "Apr 22 2022",
     "changelog": "• Boot with all 8 cores\n• Suppress verbose output during boot\n• Add more goodies to PEWQ's\n• Schedule workers on CPU0 or 0-5 by default\n• Disable hw_random,enable srandom\n• Enable HL/TTL target support\n• Calculate battery more linearly\n• Hardcode disksize to 2GB\n• Introduce kernelspace battery saver mode\n• Added underclock CPU for olive devices\n• More others....",
     "commit": "Test underclock CPU. Supports all group devices OLIVES",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/olives/nightly/Chidori-Kernel-olives-202205221944-nightly.zip/download"
@@ -12,7 +21,7 @@
     "chidori": 1,
     "fileName": "Chidori-Kernel-olive-202205152352-nightly.zip",
     "kernel": "4.9.313",
-    "date": "Apr 15 2021",
+    "date": "Apr 15 2022",
     "changelog": "• Init build",
     "commit": "Init first Nightly build",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/olives/nightly/Chidori-Kernel-olive-202205151918-nightly.zip/download"
