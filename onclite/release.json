@@ -1,4 +1,12 @@
 [
+  {
+    "chidori": 4,
+    "fileName": "Chidori-Kernel-onclite-202206072023-stable.zip",
+    "kernel": "4.9.309",
+    "date": "Jun 07 2022",
+    "changelog": "\n• msm8953: correct unit node address\n•  Do not double free pages in kgsl_memdesc\n• Optimized prima drivers (WI-FI)\n• Remove dependency on the profiling subsystem\n• More others....",
+    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/onclite/stable/Chidori-Kernel-onclite-202206072023-stable.zip/download"
+  },
  {
     "chidori": 3,
     "fileName": "Chidori-Kernel-onclite-202206041159-stable.zip",
