@@ -4,7 +4,7 @@
     "fileName": "Chidori-Kernel-onclite-202206072023-stable.zip",
     "kernel": "4.9.309",
     "date": "Jun 07 2022",
-    "changelog": "\n• msm8953: correct unit node address\n•  Do not double free pages in kgsl_memdesc\n• Optimized prima drivers (WI-FI)\n• Remove dependency on the profiling subsystem\n• More others....",
+    "changelog": "• msm8953: correct unit node address\n•  Do not double free pages in kgsl_memdesc\n• Optimized prima drivers (WI-FI)\n• Remove dependency on the profiling subsystem\n• More others....",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/onclite/stable/Chidori-Kernel-onclite-202206072023-stable.zip/download"
   },
  {
@@ -12,7 +12,7 @@
     "fileName": "Chidori-Kernel-onclite-202206041159-stable.zip",
     "kernel": "4.9.309",
     "date": "Jun 04 2022",
-    "changelog": "\n• Enable power efficient workqueues\n• EXT4 optimizations\n• Optimized Console FrameBuffer for upto 70% increase in Performance\n• Correct mem_dump size\n• Update srandom to 1.40\n• fix fence timeout for 2 buff cases\n• Enable ZSTD\n• Upgrade to latest upstream zstd version 1.5.2\n• Update RT priority\n• Support Power Efficient Workqueues\n• More others....",
+    "changelog": "• Enable power efficient workqueues\n• EXT4 optimizations\n• Optimized Console FrameBuffer for upto 70% increase in Performance\n• Correct mem_dump size\n• Update srandom to 1.40\n• fix fence timeout for 2 buff cases\n• Enable ZSTD\n• Upgrade to latest upstream zstd version 1.5.2\n• Update RT priority\n• Support Power Efficient Workqueues\n• More others....",
     "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/onclite/stable/Chidori-Kernel-onclite-202206041159-stable.zip/download"
   },
   {
