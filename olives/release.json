@@ -1,3 +1,11 @@
 [
-
+  {
+    "chidori": 1,
+    "fileName": "Chidori-Kernel-olives-202206072020-stable.zip",
+    "kernel": "4.9.315",
+    "date": "Jun 07 2022",
+    "changelog": "• Export Using OSS CAM HAL to cmdline\n• Do not double free pages in kgsl_memdesc\n• Optimized prima drivers (WI-FI)\n• Fix random reboots\n• Remove dependency on the profiling subsystem\n• Compile vDSO at O3 with Clang\n• More others....",
+    "commit": "Init first STABLE build",
+    "downloadLink": "https://sourceforge.net/projects/exodusos/files/Chidori_Kernel/olives/stable/Chidori-Kernel-olives-202206072020-stable.zip/download"
+  }
 ]
