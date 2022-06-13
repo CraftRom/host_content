@@ -1,7 +1,7 @@
 {
-  "version": "111",
-  "apkversion": "11.1",
-  "fileName": "com.craftrom.manager-11.1-release.apk",
-  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/11.1/com.craftrom.manager-11.1-release.apk",
-  "changelog": "• Added MIUI, EMUI, OPPO, FLYME, AOSP and others Rom's identification\n• Add more information to DeviceSystemInfo\n• Updated libraries\n• Updated gradle to 7.1.2"
+  "version": "112",
+  "apkversion": "11.2",
+  "fileName": "com.craftrom.manager-11.2-release.apk",
+  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/11.1/com.craftrom.manager-11.2-release.apk",
+  "changelog": "----- Version 11.2\n• Added BLACKSHARK, ROG, SAMSUNG, ONEPLUS Rom's identification\n• Update some rom name\n----- Version 11.1\n• Added MIUI, EMUI, OPPO, FLYME, AOSP and others Rom's identification\n• Add more information to DeviceSystemInfo\n• Updated libraries\n• Updated gradle to 7.1.2"
 }
