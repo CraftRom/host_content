@@ -1,7 +1,7 @@
 {
-  "version": "110",
-  "apkversion": "11.0",
-  "fileName": "com.craftrom.manager-11.0-release.apk",
-  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/11.0/com.craftrom.manager-11.0-release.apk",
-  "changelog": "• Minor design changes"
+  "version": "111",
+  "apkversion": "11.1",
+  "fileName": "com.craftrom.manager-11.1-release.apk",
+  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/11.1/com.craftrom.manager-11.1-release.apk",
+  "changelog": "• Added MIUI, EMUI, OPPO, FLYME, AOSP and others Rom's identification\n• Add more information to DeviceSystemInfo\n• Updated libraries\n• Updated gradle to 7.1.2"
 }
