@@ -1,7 +1,7 @@
 {
-  "version": "113",
-  "apkversion": "11.3",
-  "fileName": "com.craftrom.manager-11.3-release.apk",
-  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/11.3/com.craftrom.manager-11.3-release.apk",
-  "changelog": "----- Version 11.3\n• Add Realme roms detect\n• Code optimization\n----- Version 11.2\n• Added BLACKSHARK, ROG, SAMSUNG, ONEPLUS Rom's identification\n• Update some rom name\n----- Version 11.1\n• Added MIUI, EMUI, OPPO, FLYME, AOSP and others Rom's identification\n• Add more information to DeviceSystemInfo\n• Updated libraries\n• Updated gradle to 7.1.2"
+  "version": "114",
+  "apkversion": "11.4",
+  "fileName": "com.craftrom.manager-11.4-release.apk",
+  "apk": "https://github.com/CraftRom/CraftRom-Manager/releases/download/11.3/com.craftrom.manager-11.4-release.apk",
+  "changelog": "• Slightly change kernel list UI logic\n• Updated Rom's identification\n• Added random slogan text\n• Updated libraries\n• Updated gradle to 7.2.1\n• Section Other renamed to Laboratory\n• Updated transition animations "
 }
