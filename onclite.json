@@ -12,5 +12,12 @@
     "version": "4.9.327.3",
     "fileName": "Chidori-Kernel-onclite-202301281206-stable-signed.zip",
     "dateTime": "28/01/23"
+  },
+  {
+    "name": "Tsukuyoumi Kernel",
+    "type": "kali",
+    "version": "4.9.327.3",
+    "fileName": "Tsukuyoumi-Kernel-onclite-202301260052-experimental-signed.zip",
+    "dateTime": "26/01/23"
   }
 ]
