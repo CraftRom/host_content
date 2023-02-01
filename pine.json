@@ -1,0 +1,16 @@
+[
+ {
+    "name": "Exodus OS",
+    "type": "rom",
+    "version": "raccoon",
+    "fileName": "ExodusOS-18.1-20220726-NIGHTLY-pine.zip",
+    "dateTime": "26/07/22"
+  },
+  {
+    "name": "Chidori Kernel",
+    "type": "kernel",
+    "version": "4.9.x",
+    "fileName": "Chidori-Kernel-olives-202210092244-nightly.zip",
+    "dateTime": "09/10/22"
+  }
+]
