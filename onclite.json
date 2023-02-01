@@ -1,8 +1,16 @@
 [
  {
+    "name": "Exodus OS",
+    "type": "rom",
+    "version": "squirrel",
+    "fileName": "Chidori-Kernel-onclite-202205191558-stable.zip",
+    "dateTime": "02/01/23"
+  },
+  {
     "name": "Chidori Kernel",
+    "type": "kernel",
     "version": "4.9.327.3",
     "fileName": "Chidori-Kernel-onclite-202205191558-stable.zip",
     "dateTime": "02/01/23"
-  }
+  },
 ]
