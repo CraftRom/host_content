@@ -12,6 +12,7 @@
     "type": "kernel",
     "version": "4.9.x",
     "fileName": "Chidori-Kernel-olives-202210092244-nightly.zip",
-    "dateTime": "09/10/22"
+    "dateTime": "09/10/22",
+    "desc": "The Chidori core provides better battery backup without sacrificing performance."
   }
 ]
