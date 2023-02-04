@@ -4,7 +4,8 @@
     "type": "rom",
     "version": "raccoon",
     "fileName": "ExodusOS-18.1-20220721-NIGHTLY-olives.zip",
-    "dateTime": "21/07/22"
+    "dateTime": "21/07/22",
+    "desc": "Exodus OS is a Custom OS based on Lineage OS with enhancements tweaks from and some features to enhance your daily driving experience."
   },
   {
     "name": "Chidori Kernel",
