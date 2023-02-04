@@ -4,6 +4,7 @@
     "type": "kernel",
     "version": "4.9.327.3",
     "fileName": "Chidori-Kernel-chime-202210121243-nightly.zip",
-    "dateTime": "12/10/22"
+    "dateTime": "12/10/22",
+    "desc": "The Chidori core provides better battery backup without sacrificing performance."
   }
 ]
