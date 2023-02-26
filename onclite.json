@@ -5,7 +5,7 @@
     "version": "squirrel",
     "fileName": "ExodusOS-12.1-20230102-onclite-squirrel.zip",
     "dateTime": "02/01/23",
-    "desc": "Exodus OS is a Custom OS based on Lineage OS with enhancements tweaks from and some features to enhance your daily driving experience." 
+    "desc": "Exodus OS is a Custom OS based on Lineage OS with enhancements tweaks from and some features to enhance your daily driving experience."
   },
   {
     "name": "Chidori Kernel",
@@ -13,7 +13,7 @@
     "version": "4.9.327.3",
     "fileName": "Chidori-Kernel-onclite-202301281206-stable-signed.zip",
     "dateTime": "28/01/23",
-    "desc": "The Chidori core provides better battery backup without sacrificing performance." 
+    "desc": "The Chidori core provides better battery backup without sacrificing performance.", 
   },
   {
     "name": "Tsukuyoumi Kernel",
