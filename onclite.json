@@ -10,7 +10,7 @@
   {
     "name": "Chidori Kernel",
     "type": "kernel",
-    "version": "4.9.327.3",
+    "version": "4.9.337.3",
     "fileName": "Chidori-Kernel-onclite-202301281206-stable-signed.zip",
     "dateTime": "28/01/23",
     "desc": "The Chidori core provides better battery backup without sacrificing performance."
@@ -18,7 +18,7 @@
   {
     "name": "Tsukuyoumi Kernel",
     "type": "kali",
-    "version": "4.9.327.3",
+    "version": "4.9.337.3",
     "fileName": "Tsukuyoumi-Kernel-onclite-202301260052-experimental-signed.zip",
     "dateTime": "26/01/23",
     "desc": "The kernel is based on Chidori, has support for Kali NetHunter and is for reference only."
