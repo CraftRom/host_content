@@ -1,6 +1,6 @@
 ### 28th January, 2023
 
-Short changelog:
+***Short changelog:***
 - Linux 4.9.337.3
 - Upstream LZ4 to version 1.9.4
 - Optimize LZ4/sched/schedutil
@@ -13,7 +13,7 @@ Short changelog:
 
 ### 23th January, 2023
 
-Short changelog:
+***Short changelog:***
 - Linux 4.9.337
 - FROMLIST: Makefile: lld: tell clang to use lld 
 - f2fs: Force nobarrier fsync mode 
@@ -30,7 +30,7 @@ Short changelog:
 
 ### 11th November, 2023
 
-Short changelog:
+***Short changelog:***
 - Linux 4.9.333
 - Import Sound control
 - Introduce K-lapse
